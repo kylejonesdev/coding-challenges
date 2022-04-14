@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+    <h1>Candidate Info</h1>
+    <p>This page uses the United States Federal Election Commission API to provide a list of politicians for the corresponding user-provided US state. The data returned will consist of the first one hundred politicians fitting the criteria, ordered from newest to oldest.</p>
+    <form action="">
+        <label for="state">Two Letter State Abreviation</label>
+        <input id="state" type="text">
+        <label for="active">Current Candidate</label>
+        <input id="active" type="checkbox">
+        <button id="fec-search"type="button">Search</button>
+    </form>
+    <h2 id="info-title">Federal Political Candidates</h2>
+    <ul id="interesting-1"></ul>
+</body>
+    <script src="./fecApi.js"></script>
+</html>
