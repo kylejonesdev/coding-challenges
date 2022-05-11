@@ -3,6 +3,5 @@
 //Reverse the words in a string.
 
 function reverseWords(str) {
-    //let arr = str.split(' ').reverse();
     return str.split(' ').map(item => item.split('').reverse().join('')).join(' ');
 }
