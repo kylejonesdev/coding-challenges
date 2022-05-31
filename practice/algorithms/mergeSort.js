@@ -1,3 +1,5 @@
+//Practice implementation of a merge sort algorithm in a coding interview style
+
 const arr = [1, 5, 4, 7, 3, 2];
 
 //3) For each constituent array, instantiate one pointer at index zero for each array
@@ -32,45 +34,3 @@ function mergeSort(arr) {
 }
 
 console.log(mergeSort(arr));
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//let arr = [1, 6, 2, 7, 5, 3, 4];
