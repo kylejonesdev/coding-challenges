@@ -1,8 +1,11 @@
 function isSortedAndHow(array) {
-    if (array.sort((a, b) => b - a) == array) {
+    let arrAsc = [...array].sort((a, b) => a - b);
+    let arrDsc = [...array].sort((a, b) => b - a);
+    if (arrAsc.join() === array.join()) {
       return 'yes, ascending'
-    } else if (array.sort((a, b) => a - b) == array) {
+    } else if (arrDsc.join() == array.join()) {
       return 'yes, descending'
-    } else
+    } else {
       return 'no';
+      }
 }
