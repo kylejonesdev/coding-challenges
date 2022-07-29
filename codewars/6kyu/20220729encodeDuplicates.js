@@ -5,7 +5,6 @@ function duplicateEncode(word){
     let lWord = word.toLowerCase();
     for(let letter of lWord) {
       let len = lWord.split(letter).length;
-      console.log(len);
       if(len > 2){
         result += ')'
       } else {
