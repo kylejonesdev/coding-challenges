@@ -1,0 +1,15 @@
+D:\Users\Kyle\Documents\dev\codeWars\20230907evenOrOdd\bin\Debug\net6.0\20230907evenOrOdd.exe
+D:\Users\Kyle\Documents\dev\codeWars\20230907evenOrOdd\bin\Debug\net6.0\20230907evenOrOdd.deps.json
+D:\Users\Kyle\Documents\dev\codeWars\20230907evenOrOdd\bin\Debug\net6.0\20230907evenOrOdd.runtimeconfig.json
+D:\Users\Kyle\Documents\dev\codeWars\20230907evenOrOdd\bin\Debug\net6.0\20230907evenOrOdd.dll
+D:\Users\Kyle\Documents\dev\codeWars\20230907evenOrOdd\bin\Debug\net6.0\20230907evenOrOdd.pdb
+D:\Users\Kyle\Documents\dev\codeWars\20230907evenOrOdd\obj\Debug\net6.0\20230907evenOrOdd.csproj.AssemblyReference.cache
+D:\Users\Kyle\Documents\dev\codeWars\20230907evenOrOdd\obj\Debug\net6.0\20230907evenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Kyle\Documents\dev\codeWars\20230907evenOrOdd\obj\Debug\net6.0\20230907evenOrOdd.AssemblyInfoInputs.cache
+D:\Users\Kyle\Documents\dev\codeWars\20230907evenOrOdd\obj\Debug\net6.0\20230907evenOrOdd.AssemblyInfo.cs
+D:\Users\Kyle\Documents\dev\codeWars\20230907evenOrOdd\obj\Debug\net6.0\20230907evenOrOdd.csproj.CoreCompileInputs.cache
+D:\Users\Kyle\Documents\dev\codeWars\20230907evenOrOdd\obj\Debug\net6.0\20230907evenOrOdd.dll
+D:\Users\Kyle\Documents\dev\codeWars\20230907evenOrOdd\obj\Debug\net6.0\refint\20230907evenOrOdd.dll
+D:\Users\Kyle\Documents\dev\codeWars\20230907evenOrOdd\obj\Debug\net6.0\20230907evenOrOdd.pdb
+D:\Users\Kyle\Documents\dev\codeWars\20230907evenOrOdd\obj\Debug\net6.0\20230907evenOrOdd.genruntimeconfig.cache
+D:\Users\Kyle\Documents\dev\codeWars\20230907evenOrOdd\obj\Debug\net6.0\ref\20230907evenOrOdd.dll
