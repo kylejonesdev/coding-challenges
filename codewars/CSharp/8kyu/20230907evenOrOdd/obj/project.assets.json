@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\Kyle\\Documents\\dev\\Repos\\codewars\\CSharp\\8kyu\\20230907evenOrOdd\\20230907evenOrOdd.csproj",
+      "projectUniqueName": "D:\\Users\\Kyle\\Documents\\dev\\coding-challenges\\codewars\\CSharp\\8kyu\\20230907evenOrOdd\\20230907evenOrOdd.csproj",
       "projectName": "20230907evenOrOdd",
-      "projectPath": "D:\\Users\\Kyle\\Documents\\dev\\Repos\\codewars\\CSharp\\8kyu\\20230907evenOrOdd\\20230907evenOrOdd.csproj",
+      "projectPath": "D:\\Users\\Kyle\\Documents\\dev\\coding-challenges\\codewars\\CSharp\\8kyu\\20230907evenOrOdd\\20230907evenOrOdd.csproj",
       "packagesPath": "C:\\Users\\kydaj\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\Kyle\\Documents\\dev\\Repos\\codewars\\CSharp\\8kyu\\20230907evenOrOdd\\obj\\",
+      "outputPath": "D:\\Users\\Kyle\\Documents\\dev\\coding-challenges\\codewars\\CSharp\\8kyu\\20230907evenOrOdd\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kydaj\\AppData\\Roaming\\NuGet\\NuGet.Config",

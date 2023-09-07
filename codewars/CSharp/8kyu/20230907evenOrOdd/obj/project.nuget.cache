@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k6pOJ9Br8EDbWzo4LwAQsxnkKlxzIT/8m5m3JmM/u7l6j7UxnH5pHL28NlrUjtU+WOAKZYSJWd/Der2hGrPKMg==",
+  "dgSpecHash": "IEOLhy04sirPl2BlgfcSo9yORTwcUu2CPF9nqZqXWkeKUgzSlmOmEvPh91ydVa1r3rPnXb8mDkZ8Lb0I248OFg==",
   "success": true,
-  "projectFilePath": "D:\\Users\\Kyle\\Documents\\dev\\Repos\\codewars\\CSharp\\8kyu\\20230907evenOrOdd\\20230907evenOrOdd.csproj",
+  "projectFilePath": "D:\\Users\\Kyle\\Documents\\dev\\coding-challenges\\codewars\\CSharp\\8kyu\\20230907evenOrOdd\\20230907evenOrOdd.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
