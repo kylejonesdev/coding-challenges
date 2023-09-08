@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20230907evenOrOdd", "20230907evenOrOdd\20230907evenOrOdd.csproj", "{F5BB00FD-A572-4CC3-A599-A3BD0879F872}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20230908DNAtoRNA", "20230908DNAtoRNA\20230908DNAtoRNA.csproj", "{628F5A05-2A72-4F65-9B1F-2584CCAA053E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F5BB00FD-A572-4CC3-A599-A3BD0879F872}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5BB00FD-A572-4CC3-A599-A3BD0879F872}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5BB00FD-A572-4CC3-A599-A3BD0879F872}.Release|Any CPU.Build.0 = Release|Any CPU
+		{628F5A05-2A72-4F65-9B1F-2584CCAA053E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{628F5A05-2A72-4F65-9B1F-2584CCAA053E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{628F5A05-2A72-4F65-9B1F-2584CCAA053E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{628F5A05-2A72-4F65-9B1F-2584CCAA053E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
