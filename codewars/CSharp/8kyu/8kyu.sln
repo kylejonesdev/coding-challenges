@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20230907evenOrOdd", "202309
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20230908DNAtoRNA", "20230908DNAtoRNA\20230908DNAtoRNA.csproj", "{628F5A05-2A72-4F65-9B1F-2584CCAA053E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20230909arrayToString", "20230909arrayToString\20230909arrayToString.csproj", "{9329EE1F-EAC9-42DF-8D00-F322433EFFF3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20230909arrayToString", "20230909arrayToString\20230909arrayToString.csproj", "{9329EE1F-EAC9-42DF-8D00-F322433EFFF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20230911stringIf", "20230911stringIf\20230911stringIf.csproj", "{F201F428-5B85-4F6C-B846-0D623F635721}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{9329EE1F-EAC9-42DF-8D00-F322433EFFF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9329EE1F-EAC9-42DF-8D00-F322433EFFF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9329EE1F-EAC9-42DF-8D00-F322433EFFF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F201F428-5B85-4F6C-B846-0D623F635721}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F201F428-5B85-4F6C-B846-0D623F635721}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F201F428-5B85-4F6C-B846-0D623F635721}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F201F428-5B85-4F6C-B846-0D623F635721}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
