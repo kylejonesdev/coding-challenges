@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20230912countSheep", "20230
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20230914maxMinOfList", "20230913maxMinOfList\20230914maxMinOfList.csproj", "{962EA4BB-24B0-4331-8E33-09D3CF109974}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20230915doubleInt", "20230915doubleInt\20230915doubleInt.csproj", "{42BCCE03-8162-42A4-8604-15D70D085257}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{962EA4BB-24B0-4331-8E33-09D3CF109974}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{962EA4BB-24B0-4331-8E33-09D3CF109974}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{962EA4BB-24B0-4331-8E33-09D3CF109974}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42BCCE03-8162-42A4-8604-15D70D085257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42BCCE03-8162-42A4-8604-15D70D085257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42BCCE03-8162-42A4-8604-15D70D085257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42BCCE03-8162-42A4-8604-15D70D085257}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
